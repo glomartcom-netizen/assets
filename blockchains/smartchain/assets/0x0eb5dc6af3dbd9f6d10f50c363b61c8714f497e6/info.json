@@ -1,0 +1,11 @@
+{
+  "name": "DimeX",
+  "symbol": "DMX",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "DimeX (DMX) is a decentralized staking and reward ecosystem on BNB Smart Chain.",
+  "website": "https://dimex.world",
+  "explorer": "https://bscscan.com/token/0x0eb5dc6af3dbd9f6d10f50c363b61c8714f497e6",
+  "status": "active",
+  "id": "0x0eb5dc6af3dbd9f6d10f50c363b61c8714f497e6"
+}
